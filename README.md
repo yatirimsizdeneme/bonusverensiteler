@@ -1,4 +1,9 @@
-# 🎰 Deneme Bonusu Veren Siteler 2026
+![Auto Assign](https://github.com/yatirimsizdeneme/demo-repository/actions/workflows/auto-assign.yml/badge.svg)
+
+![Proof HTML](https://github.com/yatirimsizdeneme/demo-repository/actions/workflows/proof-html.yml/badge.svg)
+
+# Welcome to your organization's demo respository
+This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
 
 2026 yılının en güncel, yatırımsız ve çevrimsiz deneme bonusu veren sitelerini uygulamalı olarak incelediğimiz video rehberimize aşağıdan ulaşabilirsiniz.
 
